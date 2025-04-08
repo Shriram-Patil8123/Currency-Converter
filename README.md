@@ -43,4 +43,6 @@ Flags API – To fetch and display country flags dynamically
 
 https://github.com/Shriram-Patil8123/Currency-Converter/blob/626c931ba779a414b8f952715bcd445b7fd97da9/Screenshot1.png
 
+https://github.com/Shriram-Patil8123/Currency-Converter/blob/3e08c9af39bf8969a2a95bfdd465236daf501390/Screenshot2.png
+
 
