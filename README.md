@@ -38,8 +38,9 @@ ExchangeRate-API – For live currency exchange rates
 Flags API – To fetch and display country flags dynamically
 
 
-📸 Screenshot
 
 ## 📸 Screenshot
+
+https://github.com/Shriram-Patil8123/Currency-Converter/blob/626c931ba779a414b8f952715bcd445b7fd97da9/Screenshot1.png
 
 
