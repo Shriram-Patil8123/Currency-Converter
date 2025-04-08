@@ -31,7 +31,7 @@ HTML5 – Structure of the webpage
 
 CSS3 – Styling and layout
 
-JavaScript – Core logic, API handling, DOM manipulation
+JavaScript – dynamic actions, API handling, DOM manipulation
 
 ExchangeRate-API – For live currency exchange rates
 
