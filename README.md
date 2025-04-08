@@ -37,3 +37,9 @@ ExchangeRate-API – For live currency exchange rates
 
 Flags API – To fetch and display country flags dynamically
 
+
+📸 Screenshot
+
+## 📸 Screenshot
+
+
