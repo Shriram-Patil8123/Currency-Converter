@@ -45,11 +45,12 @@ Flags API – To fetch and display country flags dynamically
 
 
 
-![App Screenshot](https://github.com/Shriram-Patil8123/Currency-Converter/blob/626c931ba779a414b8f952715bcd445b7fd97da9/Screenshot2.png?raw=true)
+![Currency Converter Screenshot 2](https://github.com/Shriram-Patil8123/Currency-Converter/blob/1e1d3531c5225f9663989b775b67e945eddaba59/Screenshot2.png?raw=true)
 
 
 
-![App Screenshot](https://github.com/Shriram-Patil8123/Currency-Converter/blob/626c931ba779a414b8f952715bcd445b7fd97da9/Screenshot3.png?raw=true)
+![Currency Converter Screenshot 3](https://github.com/Shriram-Patil8123/Currency-Converter/blob/1e1d3531c5225f9663989b775b67e945eddaba59/Screenshot3.png?raw=true)
+
 
 
 
